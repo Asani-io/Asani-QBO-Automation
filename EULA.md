@@ -1,7 +1,7 @@
 # Asani QBO Automation Tool  
 ## End User License Agreement (EULA)
 
-_Last updated: {{ADD DATE}}_
+_Last updated: 1st December, 2025_
 
 This End User License Agreement ("Agreement") governs the internal use of the **Asani QBO Automation Tool** (“the Tool”) developed and operated by **Asani.io**.
 
@@ -91,4 +91,4 @@ For questions about this Agreement, contact:
 
 ---
 
-© {{YEAR}} Asani.io. All rights reserved.
+© 2025 Asani.io. All rights reserved.
